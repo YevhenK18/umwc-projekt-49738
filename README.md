@@ -1,1 +1,2 @@
-# umwc-projekt-49738
+   # Projekt UMwC
+   To jest mój pierwszy projekt na GitHub. 🚀
